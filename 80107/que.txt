@@ -1,0 +1,32 @@
+<!--
+Correct the syntax error in the code, so that the bold effect affects only the word unique-->
+
+
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=7" />
+		
+		<link rel="stylesheet" href="style.css" type="text/css" /> 
+		
+		<title>INFOlearn HTML</title>
+	</head>
+	
+	<body>
+		
+		<div id="logo" class="centered width-950"></div>
+		<div id="header"><div class="wave centered width-950"></div></div>
+		<div id="content" class="centered width-950">
+				
+			<p>We provide a state of the art exercise and <i>examination</i> system that offers the
+			student a <b>unique way<//b> of learning. The current system was developed over the years
+			and has been proven to be effective for hundreds of computer teaching schools
+			all over the country. This way, by applying our know-how, we are able provide
+			our students with the best learning experience. After a student has <u>successfully</u>
+			completed our courses, he or she will be able to be productive and competitive
+			in any <i>professional</i> workspace.</p>	
+
+		</div>
+		
+	</body>
+</html>
