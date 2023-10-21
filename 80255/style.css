@@ -1,0 +1,45 @@
+body
+{
+	background-color: #FFFFFF;
+	margin: 0px;
+	padding-top: 30px;
+	background-repeat: repeat-x;
+	background-image: url('top_pixel.gif');
+	font-family: verdana;
+	font-weight: normal;
+	font-size: 8pt;
+	color: #000000;
+}
+
+.width-950 {
+	width: 950px;
+}
+
+.centered 
+{
+	margin: 0 auto;
+}
+
+#logo
+{		
+	height: 54px;
+	background-image: url('infolearn.gif');
+	background-repeat: no-repeat;
+}
+
+#header
+{
+	background-color: #002561;
+}
+	.wave
+	{
+		height: 74px;
+		background-image: url('header.gif');
+		background-repeat: no-repeat;
+		background-position: right;
+	}
+
+#content
+{
+	margin-top: 20px;
+}

@@ -1,5 +1,5 @@
+Set the text Hello World as the document title.
 
-Correct the syntax error in the code, so that italic effect affects only the word professional
 
 <html>
 	<head>
@@ -21,4 +21,3 @@ Correct the syntax error in the code, so that italic effect affects only the wor
 		</div>
 	</body>
 </html>
-
